@@ -141,7 +141,7 @@ h1::after {
     content: url("https://ie.wampi.ru/2022/10/21/Frame-1-2.png");
 }
 
-.tel {
+.tel::before {
     content: url(https://ic.wampi.ru/2022/10/21/Frame-1-3.png);
 }
 
