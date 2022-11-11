@@ -155,7 +155,7 @@ h1::after {
 }
 
 .post:hover {
-    background-color:black;
+    background-color:blue;
     color:blanchedalmond;
     opacity: 1;
 }
